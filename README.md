@@ -1,3 +1,5 @@
+![Cover Image](./assets/debian-magenta-pink-1_3.png)
+
 <h1 align=center>
   Adal Zanabria
   <br />
