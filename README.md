@@ -9,7 +9,7 @@
 
 <table>
   <tr class="header1">
-    <th colspan="2">OS</th>
+    <th colspan="2" style="background-color: #ca9ee6 !important;">OS</th>
   </tr>
   <tr class="header2">
     <th>Most Used</th>
@@ -156,6 +156,7 @@
   </tr>
 </table>
 
+<!--
 <style>
   h1 {
     text-align: center;
@@ -192,10 +193,9 @@
     color: #303446;
   }
 </style>
-<!--
-**AdalZanabria/AdalZanabria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+-->
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
