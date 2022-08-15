@@ -13,7 +13,7 @@
     <th colspan="2">OS</th>
   </tr>
   <tr class="header2">
-    <th>Most Used</th>
+    <th>Preferred/Most Used</th>
     <th>But also regularly use</th>
   </tr>
   <tr class="content">
@@ -32,7 +32,7 @@
     <th colspan="2">Languages</th>
   </tr>
   <tr class="header2">
-    <th>Most Used</th>
+    <th>Preferred/Most Used</th>
     <th>But also regularly use</th>
   </tr>
   <tr class="content">
@@ -49,7 +49,7 @@
     <th colspan="2">Frontend Technologies</th>
   </tr>
   <tr class="header2">
-    <th>Most Used</th>
+    <th>Preferred/Most Used</th>
     <th>But also regularly use</th>
   </tr>
   <tr class="content">
@@ -67,7 +67,7 @@
     <th colspan="2">Backend Technologies</th>
   </tr>
   <tr class="header2">
-    <th>Most Used</th>
+    <th>Preferred/Most Used</th>
     <th>But also regularly use</th>
   </tr>
   <tr class="content">
@@ -88,7 +88,7 @@
     <th colspan="2">Databases</th>
   </tr>
   <tr class="header2">
-    <th>Most Used</th>
+    <th>Preferred/Most Used</th>
     <th>But also regularly use</th>
   </tr>
   <tr class="content">
@@ -105,7 +105,7 @@
     <th colspan="2">Design</th>
   </tr>
   <tr class="header2">
-    <th>Most Used</th>
+    <th>Preferred/Most Used</th>
     <th>But also regularly use</th>
   </tr>
   <tr class="content">
@@ -127,7 +127,7 @@
     <th colspan="2">Tools</th>
   </tr>
   <tr class="header2">
-    <th>Most Used</th>
+    <th>Preferred/Most Used</th>
     <th>But also regularly use</th>
   </tr>
   <tr class="content">
@@ -144,7 +144,7 @@
     <th colspan="2">Code Editors</th>
   </tr>
   <tr class="header2">
-    <th>Most Used</th>
+    <th>Preferred/Most Used</th>
     <th>But also regularly use</th>
   </tr>
   <tr class="content">
