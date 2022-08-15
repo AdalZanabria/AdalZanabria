@@ -1,7 +1,6 @@
-
 <h1 align=center>
   Adal Zanabria
-  </h1>
+  <br />
   Full-Stack JavaScript Developer
 </h1>
 
