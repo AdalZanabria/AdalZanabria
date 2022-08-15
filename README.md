@@ -1,7 +1,7 @@
 
-<h1>
+<h1 align=center>
   Adal Zanabria
-  </br>
+  </h1>
   Full-Stack JavaScript Developer
 </h1>
 
@@ -9,7 +9,7 @@
 
 <table>
   <tr class="header1">
-    <th colspan="2" style="background-color: #ca9ee6 !important;">OS</th>
+    <th colspan="2">OS</th>
   </tr>
   <tr class="header2">
     <th>Most Used</th>
