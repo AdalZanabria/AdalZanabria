@@ -155,6 +155,7 @@
   </tr>
 </table>
 
+[![Adal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdalZanabria&theme=omni&show_icons=true)](https://github.com/AdalZanabria) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdalZanabria&layout=compact&theme=omni)](https://github.com/AdalZanabria)
 <!--
 <style>
   h1 {
